@@ -1,0 +1,12 @@
+RPE w.r.t. translation part (m)
+for delta = 1 (frames) using consecutive pairs
+(not aligned)
+
+       max	0.712384
+      mean	0.029772
+    median	0.011841
+       min	0.000740
+      rmse	0.088446
+       sse	8.026172
+       std	0.083285
+

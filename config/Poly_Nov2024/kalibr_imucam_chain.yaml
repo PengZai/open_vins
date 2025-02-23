@@ -2,17 +2,17 @@
 
 cam0:
   T_imu_cam: #rotation from camera to IMU R_CtoI, position of camera in IMU p_CinI
-    - [1,0,0,0.334]
-    - [0,1,0,0.070]
-    - [0,0,1,0.556]
+    - [0.0000000,  0.0000000,  1.0000000,  0.211]
+    - [-1.0000000,  0.0000000,  0.0000000, 0.010]
+    - [0.0000000, -1.0000000,  0.0000000, 0.620]
     - [0, 0, 0, 1.0]
   cam_overlaps: [1]
   camera_model: pinhole
-  distortion_coeffs: [-0.28340811, 0.07395907, 0.00019359, 1.76187114e-05]
+  distortion_coeffs: [0.019194, -0.076667, -0.000535, -0.000306]
   distortion_model: radtan
-  intrinsics: [1051.5494384765625, 1051.5494384765625, 963.7871704101562, 558.1145629882812] #fu, fv, cu, cv
-  resolution: [1920, 1080]
-  rostopic: /zed2_front_node/left_raw/image_raw_color
+  intrinsics: [960.09976, 959.88088, 632.20456, 364.51351] #fu, fv, cu, cv
+  resolution: [1280, 720]
+  rostopic: /usb_cam_m/image_color
 cam1:
   T_imu_cam: #rotation from camera to IMU R_CtoI, position of camera in IMU p_CinI
     - [1,0,0,0.334]

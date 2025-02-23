@@ -158,7 +158,7 @@ int main(int argc, char **argv) {
   double max_camera_time = -1;
   std::vector<rosbag::MessageInstance> msgs;
   for (const rosbag::MessageInstance &msg : view) {
-    if (!ros::ok())
+      if (!ros::ok())
       break;
     if (msg.getTopic() == topic_imu) {
       // if (msg.instantiate<sensor_msgs::Imu>() == nullptr) {
