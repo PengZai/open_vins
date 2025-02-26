@@ -9,3 +9,5 @@ APE w.r.t. translation part (m)
        sse	944.055553
        std	0.776766
 
+Plot saved to BotanicGarden/1018_00/openvins_monocular_inertial_for_1018_00_img10hz600p/test_0/2d_ate_traj_estimate_raw
+Plot saved to BotanicGarden/1018_00/openvins_monocular_inertial_for_1018_00_img10hz600p/test_0/2d_ate_traj_estimate_map

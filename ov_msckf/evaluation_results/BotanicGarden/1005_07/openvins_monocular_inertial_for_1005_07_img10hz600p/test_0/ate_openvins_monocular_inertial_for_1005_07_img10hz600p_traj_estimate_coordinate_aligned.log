@@ -1,0 +1,13 @@
+APE w.r.t. translation part (m)
+(with SE(3) Umeyama alignment)
+
+       max	29.670029
+      mean	8.227008
+    median	6.646704
+       min	3.710728
+      rmse	9.253876
+       sse	88031.983803
+       std	4.236811
+
+Plot saved to BotanicGarden/1005_07/openvins_monocular_inertial_for_1005_07_img10hz600p/test_0/2d_ate_traj_estimate_raw
+Plot saved to BotanicGarden/1005_07/openvins_monocular_inertial_for_1005_07_img10hz600p/test_0/2d_ate_traj_estimate_map

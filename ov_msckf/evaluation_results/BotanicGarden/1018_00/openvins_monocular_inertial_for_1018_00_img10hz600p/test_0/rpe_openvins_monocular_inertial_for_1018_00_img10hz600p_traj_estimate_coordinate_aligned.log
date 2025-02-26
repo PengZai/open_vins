@@ -10,3 +10,5 @@ for delta = 1 (frames) using consecutive pairs
        sse	16.247791
        std	0.287184
 
+Plot saved to BotanicGarden/1018_00/openvins_monocular_inertial_for_1018_00_img10hz600p/test_0/2d_rpe_traj_estimate_raw
+Plot saved to BotanicGarden/1018_00/openvins_monocular_inertial_for_1018_00_img10hz600p/test_0/2d_rpe_traj_estimate_map

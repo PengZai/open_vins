@@ -1,0 +1,13 @@
+APE w.r.t. translation part (m)
+(not aligned)
+
+       max	24.218964
+      mean	9.565398
+    median	10.331031
+       min	0.182514
+      rmse	11.130542
+       sse	127357.865350
+       std	5.691409
+
+Plot saved to BotanicGarden/1005_07/openvins_monocular_inertial_for_1005_07_img10hz600p/test_0/2d_ape_traj_estimate_raw
+Plot saved to BotanicGarden/1005_07/openvins_monocular_inertial_for_1005_07_img10hz600p/test_0/2d_ape_traj_estimate_map

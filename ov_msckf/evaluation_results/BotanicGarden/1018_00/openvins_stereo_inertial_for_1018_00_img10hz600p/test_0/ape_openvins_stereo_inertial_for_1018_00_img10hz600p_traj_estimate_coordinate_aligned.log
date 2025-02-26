@@ -1,11 +1,13 @@
 APE w.r.t. translation part (m)
 (not aligned)
 
-       max	2.453890
-      mean	1.336210
-    median	1.385809
-       min	0.146754
-      rmse	1.500366
-       sse	411.950965
-       std	0.682380
+       max	2.504132
+      mean	1.384726
+    median	1.466836
+       min	0.044462
+      rmse	1.555778
+       sse	442.941488
+       std	0.709211
 
+Plot saved to BotanicGarden/1018_00/openvins_stereo_inertial_for_1018_00_img10hz600p/test_0/2d_ape_traj_estimate_raw
+Plot saved to BotanicGarden/1018_00/openvins_stereo_inertial_for_1018_00_img10hz600p/test_0/2d_ape_traj_estimate_map

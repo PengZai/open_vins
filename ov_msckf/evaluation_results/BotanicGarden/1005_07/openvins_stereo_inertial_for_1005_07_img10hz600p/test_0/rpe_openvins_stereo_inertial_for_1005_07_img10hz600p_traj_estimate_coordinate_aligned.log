@@ -1,0 +1,14 @@
+RPE w.r.t. translation part (m)
+for delta = 1 (frames) using consecutive pairs
+(not aligned)
+
+       max	0.712374
+      mean	0.029772
+    median	0.011841
+       min	0.000740
+      rmse	0.088445
+       sse	8.025948
+       std	0.083284
+
+Plot saved to BotanicGarden/1005_07/openvins_stereo_inertial_for_1005_07_img10hz600p/test_0/2d_rpe_traj_estimate_raw
+Plot saved to BotanicGarden/1005_07/openvins_stereo_inertial_for_1005_07_img10hz600p/test_0/2d_rpe_traj_estimate_map

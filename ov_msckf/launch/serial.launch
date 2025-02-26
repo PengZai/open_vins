@@ -9,13 +9,13 @@
     <arg name="max_cameras" default="1" />
     <arg name="use_stereo"  default="false" />
     <arg name="bag_start"   default="0" /> <!-- v1-2: 0, mh1: 40, mh2: 35, mh3: 17.5, mh4-5: 15 -->
-    <arg name="dataset"     default="1018_00_img10hz600p" /> <!-- merge_SlowRun_SlowBag_ZED2 V1_01_easy, V1_02_medium, V1_03_difficult, V2_02_medium, dataset-room1_512_16 -->
+    <arg name="dataset"     default="1005_07_img10hz600p" /> <!-- merge_SlowRun_SlowBag_ZED2 V1_01_easy, V1_02_medium, V1_03_difficult, V2_02_medium, dataset-room1_512_16 -->
     <!-- <arg name="bag"         default="/media/patrick/RPNG FLASH 3/$(arg config)/$(arg dataset).bag" /> -->
     <!-- <arg name="bag"         default="/datasets/Euroc_MAV/ros_bag/$(arg dataset).bag" /> -->
     <!-- <arg name="bag"         default="/datasets/Poly_Nov2024/$(arg dataset).bag" /> -->
     <!-- <arg name="bag"         default="/datasets/Orchard_EMR_Jun_2024_save_bags/from_20240603_120008_12_to_20240603_120459_99/$(arg dataset).bag" /> -->
     <!-- <arg name="bag"         default="/datasets/$(arg config)/$(arg dataset).bag" /> -->
-    <arg name="bag"         default="/datasets/BotanicGarden/1018-00/$(arg dataset).bag" />
+    <arg name="bag"         default="/datasets/BotanicGarden/1005-07/$(arg dataset).bag" />
 
 
     <!-- saving trajectory path and timing information -->
